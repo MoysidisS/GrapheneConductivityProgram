@@ -1,5 +1,5 @@
-# GrapheneConductivityProgram
-A software packet for conductivity computation of different graphene nanoribbon designs
+# GrapheneNanoribbonDevices
+A software package for design and simulation of  graphene nanoribbon devices
 
 The software package is free to use, under the condition that if used in any publication the author(s) should include in their references the following publications:
 
